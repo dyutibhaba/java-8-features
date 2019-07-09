@@ -1,0 +1,13 @@
+Any interface that has one abstract method is called Functional interface.
+
+New FIs in Java8
+1. Consumer
+2. Predicate
+3. Function
+4. Supplier
+
+Extensions
+1. Consumer -> BiConsumer
+2. Predicate -> BiPredicate
+3. Function -> BiFunction, UnaryOperator, BinaryOperator
+
