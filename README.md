@@ -24,3 +24,4 @@ now addSomeString can be used as a variable.
 #Declarative
 
 # Lambda Expression
+It's new feature introduced in Java8
