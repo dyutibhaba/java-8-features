@@ -22,3 +22,5 @@ now addSomeString can be used as a variable.
 
 
 #Declarative
+
+# Lambda Expression
